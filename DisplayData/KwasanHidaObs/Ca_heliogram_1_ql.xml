@@ -7,7 +7,7 @@
          <ResourceName>Quick-look images of Ca II K full-disk spectroheliograms with photographic plates (level 1)</ResourceName>
          <ReleaseDate>2016-08-31T09:47:00</ReleaseDate>
          <ExpirationDate>2199-12-31T00:00:00</ExpirationDate>
-         <Description>Quick-look JPEG images of full-disk solar chromospheric spectroheliograms around Ca II K absorption line obtained with the Coelostat spectroheliograph and photographic plates at Kwasan Observatory and Ikoma Observatory. The analogue data were all digitized and they will be open on the web, after some corrections and calibrations.</Description>
+         <Description>Quick-look JPEG images of full-disk solar chromospheric spectroheliograms around Ca II K absorption line obtained with the Coelostat spectroheliograph and photographic plates at Kwasan Observatory and Ikoma Observatory. The analogue data were all digitized and they will be open on the web, after some corrections and calibrations. </Description>
          <Acknowledgement>Kwasan and Hida Observatories, Kyoto University</Acknowledgement>
          <Contact>
             <PersonID>spase://IUGONET/Person/person_general</PersonID>
